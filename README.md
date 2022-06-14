@@ -1,4 +1,4 @@
-# README
+# Desafío - Nuestro primer proyecto desde cero
 
 Inicializar proyecto en Heroku y hacer push
 
